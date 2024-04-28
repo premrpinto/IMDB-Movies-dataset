@@ -73,6 +73,10 @@ GROUP BY director;
 
 ### Data Visualization using PowerBi
 [Download here](https://app.powerbi.com/groups/me/reports/6355d3bf-0645-44c9-9631-7d0097bd5e94?experience=power-bi)
+![Least Meta Score](https://github.com/premrpinto/IMDB-Movies-dataset/assets/168356414/af70c5b0-0fee-4aef-af8a-9997029a11bc)
+![Highest number of votes](https://github.com/premrpinto/IMDB-Movies-dataset/assets/168356414/9c451786-570c-49f7-b700-00805aa8dfe3)
+![Director with highest movies](https://github.com/premrpinto/IMDB-Movies-dataset/assets/168356414/1c0b2ddd-5fbd-445c-9963-685ec852256c)
+![Interactive Dashboard](https://github.com/premrpinto/IMDB-Movies-dataset/assets/168356414/6aa1bbf8-5ba3-4096-90ca-01b25cbc2e72)
 
 ### Findings
 Based on the analysis, I found out that Steven Spielberg has produced highest movies. The most favoured movie by the audience was 'The Shawshank Redemtion' based on the number of votes it received. The famous movie which received the golden Globe award 'Jocker' was directed by Todd Phillips.
